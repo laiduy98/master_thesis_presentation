@@ -1,4 +1,4 @@
-# master_thesis_representation
+# master_thesis_presentation
 
 Master's thesis presentation
 
